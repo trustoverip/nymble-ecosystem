@@ -5,7 +5,7 @@ A collaborate community incubation effort focused validating the ease at which t
 Playing on the concept of a **nym**, (pronounced NIHM and a shortened form of "[pseudonym](https://en.wikipedia.org/wiki/Pseudonym),") as a mechanism for concealing and protecting privacy on the Internet -- the **nymble ecosystem** is focused on the validation of decentralized identity technologies and concepts in the domain of Employee Onboarding and Professional Learning.
 
 ## Project Affiliation
-This repo represents the activitives of the *Nymble Ecosystem Project* under the guidanc eof the [ToIP Ecosystem Foundrey Work Group](https://trustoverip.org/working-groups/ecosystem-foundry/).
+This repo represents the activitives of the *Nymble Ecosystem Project* under the guidanc eof the [ToIP Ecosystem Foundry Work Group](https://trustoverip.org/working-groups/ecosystem-foundry/).
 
 ## Stakeholders
 
